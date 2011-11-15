@@ -13,7 +13,7 @@
 	<uses-library android:name="roboguice.2_0"/>
 	<uses-library android:name="guice.3.no.aop"/>
 	<uses-library android:name="javax.inject"/>
-    <uses-library android:name="android.support.v4"/>
+  <uses-library android:name="android.support.v4"/>
 
   </application>
 
